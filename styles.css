@@ -82,7 +82,7 @@ color: #002663;
 
 /* SECTION ONE  */
 .section-one {
-    background-image: url(../images/big-pic.jpg);
+    background-image: url(./images/big-pic.jpg);
     height:450px;
     background-position: center;
     background-repeat: no-repeat;
